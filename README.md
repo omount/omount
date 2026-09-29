@@ -14,4 +14,4 @@ Building quietly.
 
 <br>
 
-<img src="https://raw.githubusercontent.com/omount/omount/output/github-contribution-grid-snake.gif" alt="Contribution snake" width="100%">
+<img src="https://raw.githubusercontent.com/omount/omount/gh-pages/github-contribution-grid-snake.gif" alt="Contribution snake" width="100%">
